@@ -93,4 +93,4 @@ app.put('/fruits/:fruitId', async (req, res) => {
 
 app.listen(PORT, () => {
   console.log('Listening on port 3000');
-});
+}); 
